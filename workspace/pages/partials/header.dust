@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{+metaTitle}{global.site}{/metaTitle}</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="copyright" content="{@formatDate unix=global.timestamp format="YYYY" /}">
+    <meta name="description" content="{global.description}">
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Source+Code+Pro" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+    <link rel="icon" type="image/png" href="/logo.png">
+  </head>
+  <body>
+
+  <header>
+    <div class="logo">
+      <a href="/"><span>a</span></a>
+    </div>
+    <div class="title">
+      <a href="/"><h1>{global.site}</h1></a>
+      <p>{global.description}</p>
+    </div>
+  </header>

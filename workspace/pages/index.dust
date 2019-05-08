@@ -1,0 +1,16 @@
+{>"partials/header" /}
+
+{<metaTitle}
+	{global.site} — {global.description}
+{/metaTitle}
+
+{#posts.results}
+	{>"partials/post" /}
+{/posts.results}
+
+{>"partials/pagination" 
+	currentPage=posts.metadata.page
+	totalPages=posts.metadata.totalPages
+/}
+
+{>"partials/footer" /}

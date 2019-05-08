@@ -1,0 +1,20 @@
+{
+  "global": {
+    "site": "adamkdean",
+    "siteUrl": "http://www.adamkdean.com",
+    "description": "software engineering"
+  },
+  "server": {
+    "host": "127.0.0.1",
+    "port": 80
+  },
+  "cluster": false,
+  "paths": {
+    "workspace": "workspace",
+    "datasources": "workspace/datasources",
+    "pages": "workspace/pages",
+    "public": "workspace/public"
+  },
+  "allowDebugView": true,
+  "debug": true
+}

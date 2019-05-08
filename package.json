@@ -1,0 +1,9 @@
+{
+  "name": "@dadi/web-boilerplate",
+  "main": "server.js",
+  "author": "Adam K Dean <akd@dadi.co>",
+  "dependencies": {
+    "@dadi/web": "7.x",
+    "@dadi/web-dustjs": "^1.1.3"
+  }
+}

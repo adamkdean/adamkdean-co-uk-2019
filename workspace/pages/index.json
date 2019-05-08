@@ -1,0 +1,17 @@
+{
+  "page": {
+    "name": "index",
+    "language": "en"
+  },
+  "settings": {
+    "passFilters": true
+  },
+  "routes": [
+    {
+      "path": "/"
+    }
+  ],
+  "datasources": [
+    "posts"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "page": {
+    "name": "post",
+    "language": "en"
+  },
+  "routes": [
+    {
+      "path": "/post/:handle",
+      "params": [
+        {
+          "param": "handle",
+          "fetch": "posts"
+        }
+      ]
+    }
+  ],
+  "requiredDatasources": [
+    "posts"
+  ],
+  "datasources": [
+    "posts"
+  ]
+}

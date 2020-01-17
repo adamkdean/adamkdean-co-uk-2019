@@ -20,7 +20,7 @@ Great, then, I had to construct the power cells. I used two sets of 2 x 3.2v Lit
 
 After this, I mounted some LED mounts onto the glasses, a small switch, the power cells at each side, so the weight is distributed, and then went ahead and wired it up. The result? Melatonin Busting Glasses. A little bit rough around the edges but I always think of it like the poetic-license equivalent of engineering. Prototypic-license.
 
-![Finishbed prototype](https://i.imgur.com/lgh678Q.png)
+![Finished prototype](https://i.imgur.com/lgh678Q.png)
 
 Four gloriously diffused but bright blue LEDs shining into the periphery of your eyesight.
 
